@@ -1,0 +1,11 @@
+{
+  "name": "online-test-app",
+  "version": "1.0.0",
+  "description": "Online Test Application",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

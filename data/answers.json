@@ -1,0 +1,12 @@
+{
+  "answers": [
+      {
+          "id": 1,
+          "correctAnswer": "Paris"
+      },
+      {
+          "id": 2,
+          "correctAnswer": "4"
+      }
+  ]
+}
